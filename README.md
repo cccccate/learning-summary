@@ -9,7 +9,7 @@
 [复合类型](https://github.com/lccate/purin-purin_4)  
 * c++  
 [C++对c的扩展](https://github.com/lccate/purin-purin_5)  
-* 数据结构
+* 数据结构  
 [综述、时间复杂度、线性表](https://github.com/lccate/data-structure)  
 [队列和栈](https://github.com/lccate/data-structure-2)  
 [串](https://github.com/lccate/data-structure-3)  
@@ -19,14 +19,14 @@
 [排序](https://github.com/lccate/data-structure-7)  
 [堆](https://github.com/lccate/data-structure-8)  
 
-# 软件安装配置与使用  
+# 软件安装配置与使用索引  
 [VS，CodeBlock，Xcode的使用](https://blog.csdn.net/weixin_40725491/article/details/84193478)  
 [pycharm的安装、配置、使用窍门](https://blog.csdn.net/weixin_40725491/article/details/83175902)  
 [mac系统配置pycharm的anaconda环境](https://blog.csdn.net/weixin_40725491/article/details/83175902)  
 [mac系统下安装vmware和unbuntu](https://blog.csdn.net/weixin_40725491/article/details/83090606)  
 [eclipse安装配置](https://blog.csdn.net/weixin_40725491/article/details/83018497)  
 [vim的使用](https://github.com/lccate/vim)  
-# 小模块的功能开发  
+# 小模块的功能开发索引  
 [python调用摄像头](https://github.com/lccate/py_camera)  
 [python飞机大战](https://github.com/lccate/The_plane_war)  
 [python控制电脑鼠标键盘自动运行](https://github.com/lccate/auto_pc)  
