@@ -9,7 +9,16 @@
 [复合类型](https://github.com/lccate/purin-purin_4)  
 * c++  
 [C++对c的扩展](https://github.com/lccate/purin-purin_5)  
-* [数据结构](https://github.com/lccate/data-structure)  
+* 数据结构
+[综述、时间复杂度、线性表](https://github.com/lccate/data-structure)  
+[队列和栈](https://github.com/lccate/data-structure-2)  
+[串](https://github.com/lccate/data-structure-3)  
+[树](https://github.com/lccate/data-structure-4)  
+[图](https://github.com/lccate/data-structure-5)  
+[查找](https://github.com/lccate/data-structure-6)  
+[排序](https://github.com/lccate/data-structure-7)  
+[堆](https://github.com/lccate/data-structure-8)  
+
 # 软件安装配置与使用  
 [VS，CodeBlock，Xcode的使用](https://blog.csdn.net/weixin_40725491/article/details/84193478)  
 [pycharm的安装、配置、使用窍门](https://blog.csdn.net/weixin_40725491/article/details/83175902)  
