@@ -1,6 +1,6 @@
 # 1 学习内容索引  
-## 1.1 [linux系统基本指令](https://blog.csdn.net/weixin_40725491/article/details/83107710)  
-## 1.2 python基础  
+## [linux系统基本指令](https://blog.csdn.net/weixin_40725491/article/details/83107710)  
+## python基础  
 [* 模块](https://blog.csdn.net/weixin_40725491/article/details/83041772)  
 [* 正则表达式](https://blog.csdn.net/weixin_40725491/article/details/83047918)  
 [* 正则表达式](https://blog.csdn.net/weixin_40725491/article/details/83057609)  
@@ -12,7 +12,7 @@
 [* 继承](https://blog.csdn.net/weixin_40725491/article/details/83719381)  
 [* 多态](https://blog.csdn.net/weixin_40725491/article/details/83757677)  
 [* 单例、异常](https://blog.csdn.net/weixin_40725491/article/details/83866180)  
-## 1.3 数学建模  
+## 数学建模  
 [* 层次分析法](https://blog.csdn.net/weixin_40725491/article/details/82082466)  
 [* 多属性决策模型](https://blog.csdn.net/weixin_40725491/article/details/82108060) 
 [* 灰色预测模型](https://blog.csdn.net/weixin_40725491/article/details/82118693)  
@@ -22,14 +22,14 @@
 [* 种群竞争模型](https://blog.csdn.net/weixin_40725491/article/details/82151101)  
 [* 排队论](https://blog.csdn.net/weixin_40725491/article/details/82190598)  
 [* 线性规划、非线性规划、01规划](https://blog.csdn.net/weixin_40725491/article/details/82216732)  
-## 1.4 c语言  
+## c语言  
 [* 数据类型、数组、字符串](https://github.com/lccate/purin-purin_1)  
 [* 指针](https://github.com/lccate/purin-purin_2)  
 [* 内存管理](https://github.com/lccate/purin-purin_3)  
 [* 复合类型](https://github.com/lccate/purin-purin_4)  
-## 1.5 c++  
+## c++  
 [* C++对c的扩展](https://github.com/lccate/purin-purin_5)  
-## 1.6 数据结构  
+## 数据结构  
 [* 综述、时间复杂度、线性表](https://github.com/lccate/data-structure)  
 [* 队列和栈](https://github.com/lccate/data-structure-2)  
 [* 串](https://github.com/lccate/data-structure-3)  
