@@ -14,7 +14,7 @@
 [* 单例、异常](https://blog.csdn.net/weixin_40725491/article/details/83866180)  
 ## 数学建模  
 [* 层次分析法](https://blog.csdn.net/weixin_40725491/article/details/82082466)  
-[* 多属性决策模型](https://blog.csdn.net/weixin_40725491/article/details/82108060) 
+[* 多属性决策模型](https://blog.csdn.net/weixin_40725491/article/details/82108060)  
 [* 灰色预测模型](https://blog.csdn.net/weixin_40725491/article/details/82118693)  
 [* 图论模型dijkstra](https://blog.csdn.net/weixin_40725491/article/details/82119706)  
 [* 图论模型floyd](https://blog.csdn.net/weixin_40725491/article/details/82146633)  
