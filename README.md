@@ -52,6 +52,7 @@
 [python控制电脑鼠标键盘自动运行](https://github.com/lccate/auto_pc)  
 [python使用adb控制手机](https://github.com/lccate/auto_Wechat)  
 [python生成混淆矩阵](https://github.com/lccate/confusion_matrix)  
-
+[使用c++封装DLL并调用](https://github.com/lccate/DLL)  
+[c++编写t_test算法](https://github.com/lccate/T-test)
 
 
