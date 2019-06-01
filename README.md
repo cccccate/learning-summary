@@ -46,7 +46,8 @@
 [mac系统下安装vmware和unbuntu](https://blog.csdn.net/weixin_40725491/article/details/83090606)  
 [eclipse安装配置](https://blog.csdn.net/weixin_40725491/article/details/83018497)  
 [vim的使用](https://github.com/lccate/vim)  
-[代码规范性](https://github.com/lccate/code-specification)
+[代码规范性](https://github.com/lccate/code-specification)  
+[ADB用法大全](https://github.com/lccate/awesome-adb)  
 # 3 小模块的功能开发索引  
 [python调用摄像头](https://github.com/lccate/py_camera)  
 [python飞机大战](https://github.com/lccate/The_plane_war)  
