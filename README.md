@@ -27,6 +27,8 @@
 [* 指针](https://github.com/lccate/purin-purin_2)  
 [* 内存管理](https://github.com/lccate/purin-purin_3)  
 [* 复合类型](https://github.com/lccate/purin-purin_4)  
+[* 文件操作](https://github.com/lccate/purin-purin-6)  
+[* MFC](https://github.com/lccate/purin-purin-7)  
 ## c++  
 [* C++对c的扩展](https://github.com/lccate/purin-purin_5)  
 ## 数据结构  
@@ -49,14 +51,14 @@
 [代码规范性](https://github.com/lccate/code-specification)  
 [ADB用法大全](https://github.com/lccate/awesome-adb)  
 # 3 小模块的功能开发索引  
-[python调用摄像头](https://github.com/lccate/py_camera)  
-[python飞机大战](https://github.com/lccate/The_plane_war)  
 [python控制电脑鼠标键盘自动运行](https://github.com/lccate/auto_pc)  
 [python使用adb控制手机](https://github.com/lccate/auto_Wechat)  
 [python生成混淆矩阵](https://github.com/lccate/confusion_matrix)  
 [python微信“智能“群发程序](https://github.com/lccate/py2webwx)  
 [python618活动自动采集喵币](https://github.com/lccate/miao-miao)  
+[python调用摄像头](https://github.com/lccate/py_camera)  
+[python飞机大战](https://github.com/lccate/The_plane_war)  
 [使用c++封装DLL并调用](https://github.com/lccate/DLL)  
-[c++编写t_test算法](https://github.com/lccate/T-test)
+[c++编写t_test算法](https://github.com/lccate/T-test)  
 
 
