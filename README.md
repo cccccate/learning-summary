@@ -29,6 +29,14 @@
 [* 复合类型](https://github.com/lccate/purin-purin_4)  
 [* 文件操作](https://github.com/lccate/purin-purin-6)  
 [* MFC](https://github.com/lccate/purin-purin-7)  
+## c语言提高
+[* 数据类型、变量、内存四区、指针](https://github.com/lccate/purin-purin-8)  
+[* 指针强化、字符串](https://github.com/lccate/purin-purin-9)  
+[* 多级指针](https://github.com/lccate/purin-purin-10)  
+[* 一维数组、二维数组、指针数组、数组指针](https://github.com/lccate/purin-purin-11)  
+[* 结构体](https://github.com/lccate/purin-purin-12)  
+[* 链表、函数指针](https://github.com/lccate/purin-purin-13)  
+[* 动态库的封装和设计](https://github.com/lccate/purin-purin-14)  
 ## c++  
 [* C++对c的扩展](https://github.com/lccate/purin-purin_5)  
 ## 数据结构  
