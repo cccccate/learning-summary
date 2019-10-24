@@ -65,7 +65,7 @@
 [python使用adb控制手机](https://github.com/lccate/auto_Wechat)  
 [python生成混淆矩阵](https://github.com/lccate/confusion_matrix)  
 [python微信“智能“群发程序](https://github.com/lccate/py2webwx)  
-[python618活动自动采集喵币](https://github.com/lccate/miao-miao)  
+[618双11活动](https://github.com/lccate/miao-miao)  
 [python调用摄像头](https://github.com/lccate/py_camera)  
 [python飞机大战](https://github.com/lccate/The_plane_war)  
 [使用c++封装DLL并调用](https://github.com/lccate/DLL)  
