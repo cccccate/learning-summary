@@ -60,6 +60,7 @@
 [ADB用法大全](https://github.com/lccate/awesome-adb)  
 [系统更新后开机启动遇到grub rescure](https://github.com/lccate/grubrescure/blob/master/README.md)  
 [解决小米手机卡顿](https://github.com/lccate/mika/blob/master/README.md)  
+[LaTeX学习：Texlive 2019和TeX studio的安装及使用](https://blog.csdn.net/Mikchy/article/details/94448707)  
 # 3 小模块的功能开发索引  
 [python控制电脑鼠标键盘自动运行](https://github.com/lccate/auto_pc)  
 [python使用adb控制手机](https://github.com/lccate/auto_Wechat)  
