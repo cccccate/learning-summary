@@ -61,6 +61,7 @@
 [系统更新后开机启动遇到grub rescure](https://github.com/lccate/grubrescure/blob/master/README.md)  
 [解决小米手机卡顿](https://github.com/lccate/mika/blob/master/README.md)  
 [LaTeX学习：Texlive 2019和TeX studio的安装及使用](https://blog.csdn.net/Mikchy/article/details/94448707)  
+[安装tensorflow和keras，win10，cpu](https://blog.csdn.net/caicaiyunyun/article/details/103274011)  
 # 3 小模块的功能开发索引  
 [python控制电脑鼠标键盘自动运行](https://github.com/lccate/auto_pc)  
 [python使用adb控制手机](https://github.com/lccate/auto_Wechat)  
@@ -71,4 +72,5 @@
 [python飞机大战](https://github.com/lccate/The_plane_war)  
 [使用c++封装DLL并调用](https://github.com/lccate/DLL)  
 [c++编写t_test算法](https://github.com/lccate/T-test)  
+[python打包exe](https://github.com/lccate/python_exe/blob/main/README.md)  
 
